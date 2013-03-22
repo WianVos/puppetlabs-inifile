@@ -1,4 +1,4 @@
-name 'cprice404-inifile'
+name 'puppetlabs-inifile'
 version '0.9.0'
 source 'git://github.com/cprice-puppet/puppetlabs-inifile.git'
 author 'Chris Price'
